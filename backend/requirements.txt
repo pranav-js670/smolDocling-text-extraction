@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+torch
+accelerate
+transformers
+huggingface_hub
+PyMuPDF
+python-dotenv
+docling-core 
